@@ -43,23 +43,7 @@ function buildAutoBlocks(main) {
   }
 }
 
-function decorateExampleModals(main) {
-  const simpleModalButton = main.querySelector('a.button[href="http://modal-demo.simple"]');
-  const customModalButton = main.querySelector('a.button[href="http://modal-demo.custom"]');
 
-  // Listens to the simple modal button
-  simpleModalButton.addEventListener('click', async (e) => {
-    e.preventDefault();
-    // Modals can be imported on-demand to prevent loading unnecessary code
-    const { default: getModal } = await import('./modal/modal.js');
-    const simpleModal = await getModal('simple-modal', () => 
-      '<p>Click on the "Choose File" button to upload a file:</p>
-       <form action="/action_page.php">
-        <input type="file" id="myFile" name="filename">
-        <input type="submit">
-    </form>');
-    simpleModal.showModal();
-  });
   
 /**
  * Decorates the main element.
