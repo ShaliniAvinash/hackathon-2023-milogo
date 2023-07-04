@@ -241,3 +241,216 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+@import url(https://use.typekit.net/onr8tbr.css);
+  .ReadMsgBody {
+    width: 100%
+  }
+  
+  .ExternalClass {
+    width: 100%
+  }
+  
+  table {
+    border-collapse: collapse;
+    
+  }
+  
+  a,
+  a:visited {
+    color: #1473E6;
+    text-decoration: none
+  }
+  
+  .legal a {
+    text-decoration: underline
+  }
+  
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit!important
+  }
+  
+  .mobile {
+    border-spacing: 0;
+    display: none !important;
+    height: 0;
+    max-height: 0;
+    mso-hide: all;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0
+  }
+  
+  .padleft {
+    padding-left: 140px!important
+  }
+        .logo-mob1 {
+    padding-left: 50px!important
+  }
+  
+  @media only screen and (max-width:480px) {
+    u~div {
+      min-width: 100vw
+    }
+    .mb-tbl
+    {
+    width: 214px !important;
+    }
+    
+    td.body1 {
+      padding-right: 0px!important
+    }
+    table.half-img {
+      width: 76%!important
+    }
+    .left_space1 {
+      padding-left: 16% !important;
+      padding-right: 8%!important
+    }
+    .rgt_space1 {
+      padding-left: 8% !important;
+      padding-right: 16%!important
+    }
+    table.half-con {
+      width: 100%!important
+    }
+    td.art-header.sm-bx-pad {
+      padding-top: 40px!important
+    }
+    td.bg_pad {
+      padding-bottom: 600px !important
+    }
+    .banner-bg1 {
+      
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+      height: auto !important;
+      background-position: bottom right !important
+        }
+    td.sm-table {
+      display: block !important;
+      width: 100%
+    }
+    td.pb-80 {
+      padding-bottom: 80px!important
+    }
+    td.marq-l {
+      width: 54%!important
+    }
+    td.marq-l table {
+      width: 100%!important
+    }
+    td.marq-r {
+      width: 46%!important
+    }
+    td.marq-r table {
+      width: 94%!important
+    }
+    td.pad1-mob {
+      padding-left: 0 !important;
+      padding-right: 40%!important
+    }
+    td.pad2-mob {
+      padding-left: 0!important;
+      padding-bottom: 410px !important;
+    }
+    td.bgsp {
+      width: 12%!important
+    }
+    div>u~div {
+      min-width: 100%
+    }
+    .mobile-spacer {
+      width: 30px!important
+    }
+    .web {
+      display: none!important
+    }
+    .padleft {
+      padding-left: 0!important
+    }
+        .logo-mob1 {
+    max-width: 221px !important;
+    width: 100% !important;
+}
+    .mobile {
+      display: block !important;
+      width: auto !important;
+      overflow: visible !important;
+      height: auto !important;
+      max-height: inherit !important;
+      visibility: visible!important
+    }
+    .block {
+      display: block !important;
+      width: 100% !important;
+      overflow: visible !important;
+      height: auto !important;
+      max-height: inherit !important;
+      visibility: visible !important;
+      padding-left: 0!important
+    }
+    .padb-50 {
+      padding-bottom: 50px!important
+    }
+    .email-width {
+      width: 84%!important
+    }
+    .email-width1 {
+      padding-left: 30px !important;
+      padding-right: 30px!important
+    }
+    .full-width {
+      width: 100%!important
+    }
+    .mobile-image {
+      height: auto !important;
+      width: 100%!important
+    }
+    .social {
+      float: left !important;
+      padding-top: 50px !important;
+      text-align: left!important
+    }
+    .floatNone {
+      float: none!important
+    }
+    .rainbow {
+      background-size: 100% 100%!important
+    }
+    .header {
+      font-size: 40px !important;
+      line-height: 46px!important
+    }
+    .padr-0 {
+      padding-right: 0!important
+    }
+    .padl-0 {
+      padding-left: 0!important
+    }
+    .padb-0 {
+      padding-bottom: 0!important
+    }
+    .pad-ex {
+      padding-left: 8%!important
+    }
+    td.bottom-bg-pt {
+      padding-top: 30px!important
+    }
+    td.bottom-bg-pb {
+      padding-bottom: 35px!important
+    }
+    .border_CT {
+      width: 140px !important;
+    }
+  }
+  
+  @media only screen and (max-width:400px) {
+    td.pad2-mob {
+      padding-bottom: 386px !important
+    }
+  }
